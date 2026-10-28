@@ -15,7 +15,12 @@
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "",
-  "socialLinks": [],
+  "socialLinks": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/etametro/"
+    }
+  ],
   "supportLinks": [],
   "linksEnabled": false,
   "links": [],
