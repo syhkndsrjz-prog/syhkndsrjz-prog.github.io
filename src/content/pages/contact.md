@@ -1,5 +1,6 @@
 ---
 title: Contact
+email: arthurrmaury@icloud.com
 formEnabled: true
 ---
 
