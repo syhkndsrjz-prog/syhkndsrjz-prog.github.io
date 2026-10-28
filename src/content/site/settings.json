@@ -46,7 +46,7 @@
       "bodyFont": "Archivo",
       "headingWeight": 500,
       "bodyWeight": 400,
-      "baseSize": 22,
+      "baseSize": 14,
       "headingTransform": "none",
       "letterSpacing": -0.01
     },
