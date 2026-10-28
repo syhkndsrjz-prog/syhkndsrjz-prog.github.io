@@ -5,5 +5,6 @@ status: available
 alt: Bordeaux 17 octobre 2026
 order: 3
 featured: false
+protected: true
 ---
 
