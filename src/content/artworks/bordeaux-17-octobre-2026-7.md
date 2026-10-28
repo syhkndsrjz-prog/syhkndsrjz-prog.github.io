@@ -3,7 +3,7 @@ image: ../../assets/artworks/bordeaux-17-octobre-2026-7-fketss.jpg
 title: Bordeaux 17 octobre 2026
 status: available
 alt: Bordeaux 17 octobre 2026
-order: 8
+order: 9
 featured: false
 ---
 
