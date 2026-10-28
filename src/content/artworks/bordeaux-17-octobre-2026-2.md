@@ -1,0 +1,9 @@
+---
+image: ../../assets/artworks/bordeaux-17-octobre-2026-2-kw9umd.jpg
+title: Bordeaux 17 octobre 2026
+status: available
+alt: Bordeaux 17 octobre 2026
+order: 2
+featured: false
+---
+
