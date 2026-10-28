@@ -110,7 +110,7 @@
       "mode": "initials"
     },
     "pages": {
-      "about": true,
+      "about": false,
       "contact": true,
       "cv": false,
       "press": false,
